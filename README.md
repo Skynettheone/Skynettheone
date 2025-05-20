@@ -67,13 +67,7 @@ int main() {
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="40" height="40"/>
     </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Sass.svg" alt="CSS3" width="40" height="40"/>
-    </a>
     <!-- Cloud Services -->
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/>
-    </a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GCP-Dark.svg" alt="GCP" width="40" height="40"/>
     </a>
@@ -90,15 +84,6 @@ int main() {
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="40" height="40"/>
     </a>
-    <a href="https://wordpress.com" target="_blank" rel="noreferrer">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Wordpress.svg" alt="Arduino" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" alt="Arduino" width="40" height="40"/>
-    </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender" width="40" height="40"/>
-    </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="40" height="40"/>
     </a>
@@ -108,12 +93,6 @@ int main() {
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" alt="Illustrator" width="40" height="40"/>
     </a>
-    <a href="https://www.blender.org" target="_blank" rel="noreferrer">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Illustrator" width="40" height="40"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40" height="40"/>
-    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
     </a>
@@ -121,8 +100,6 @@ int main() {
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40"/>
     </a>
 </p>
-
-
 
 ---
 
