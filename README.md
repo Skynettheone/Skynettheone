@@ -19,9 +19,9 @@ int main() {
     </a>
 </p>
 
-- 🌱 I’m currently learning **Backend developing, Mobile app development etc.**
+- 🌱 I’m currently learning **Full-stack developing and AI.**
 
-- 💬 Ask me about **Frontend developing, UI Designing and editing**
+- 💬 Ask me about **Editing, Content Marketing, Tech and AI.**
 
 - 📫 How to reach me **tharukakarunanayaka6@gmail.com**
 
@@ -33,8 +33,6 @@ int main() {
 <a href="https://linkedin.com/in/tharuka karunanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharuka karunanayaka" height="30" width="40" /></a>&nbsp;
 <a href="https://twitter.com/tharukasanketh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharukasanketh" height="30" width="40" /></a>&nbsp;
 <a href="https://discord.gg/974668087355904000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="974668087355904000" height="30" width="40" /></a>&nbsp;
-<a href="https://stackoverflow.com/users/skynettheone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="skynettheone" height="30" width="40" /></a>&nbsp;
-<a href="https://www.behance.net/skynetdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="skynetdesigns" height="30" width="40" /></a>&nbsp;
 </p>
 
 ---
@@ -58,9 +56,6 @@ int main() {
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>
     </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="40" height="40"/>
-    </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="40" height="40"/>
     </a>
@@ -68,12 +63,12 @@ int main() {
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="40" height="40"/>
     </a>
     <!-- Cloud Services -->
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <!--<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GCP-Dark.svg" alt="GCP" width="40" height="40"/>
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40"/>
-    </a>
+    </a> -->
     <!-- Tools -->
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Arduino" width="40" height="40"/>
