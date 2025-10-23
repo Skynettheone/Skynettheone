@@ -117,5 +117,3 @@ int main() {
 <p align="center">
     <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 </p>
-
-[![An image of @skynettheone's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skynettheone)](https://holopin.io/@skynettheone)
