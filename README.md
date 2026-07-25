@@ -1,5 +1,5 @@
 <p align="center" ><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /></p>
-<h1 align="center">Hello World! 🌍, I'm Tharuka Sanketh</h1>
+<h1 align="center">Hello World! 🌍, I'm Tharuka Karunanayaka</h1>
 
 ```c
 
